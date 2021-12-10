@@ -1,4 +1,4 @@
-# ai_radio
+# GS_Radio
 
 A new Flutter project.
 
