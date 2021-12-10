@@ -1,6 +1,8 @@
 # GS_Radio
 
-A new Flutter project.
+# Flutter Project ScreenShot
+
+![Screenshot (10)](https://user-images.githubusercontent.com/60997184/145612775-897699d7-d7fe-40aa-b160-f85659a0f7dd.png)
 
 ## Getting Started
 
